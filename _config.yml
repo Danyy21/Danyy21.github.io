@@ -4,7 +4,7 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Daaniator"
 description: > # this means to ignore newlines until "email:"
    A Jekyll theme - Medium inspired
 
@@ -36,7 +36,7 @@ twitter_handle: '@dirkfabisch'
 social:
   - icon:	twitter
     url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
+    desc: Follow me on twitter pls
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
